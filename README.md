@@ -36,51 +36,28 @@ Atuo com foco em Business Intelligence, visualização de dados e automação de
 
 ---
 
-## Projeto em Destaque
+## Projetos em Destaque
 
 ### Dashboard de Análise de Demanda e Forecast
-
-Projeto desenvolvido em Power BI com:
-
-- Forecast ETS
-- KPIs executivos
-- Análise sazonal
+Projeto desenvolvido em Power BI utilizando:
+- análise sazonal
+- previsão de demanda (Forecast ETS)
 - Pareto
-- Heatmaps
-- Storytelling com dados
-- Insights estratégicos
+- KPIs executivos
+- heatmaps
+- insights estratégicos
 
 🔗 Portfólio Online:  
 https://franciscogoncalves95.github.io/portfolio/
 
 ---
 
-## GitHub Stats
+## Contato
 
-<div align="center">
+📧 franciscodouglassantos@gmail.com
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=franciscogoncalves95&show_icons=true&theme=tokyonight"/>
+🔗 LinkedIn:  
+https://www.linkedin.com/in/francisco-douglas-gonçalves
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscogoncalves95&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## Conecte-se comigo
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/francisco-douglas-gonçalves">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:franciscodouglassantos@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/franciscogoncalves95">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+🔗 GitHub:  
+https://github.com/franciscogoncalves95
