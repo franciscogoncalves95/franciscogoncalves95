@@ -47,6 +47,13 @@ Projeto desenvolvido em Power BI utilizando:
 - heatmaps
 - insights estratégicos
 
+### Dashboard de Finanças Pessoais
+- Análise de despesas em diversos níveis de granularidade
+- Comparativo período atual x anterior
+- Filtros dinâmicos
+- Download da planilha e do dashboard para uso pessoal
+- Power BI + DAX + Excel
+
 🔗 Portfólio Online:  
 https://franciscogoncalves95.github.io/portfolio/
 
